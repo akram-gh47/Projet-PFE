@@ -1,0 +1,5 @@
+# Dans la racine de votre projet
+echo "/vendor/" >> .gitignore
+echo ".env" >> .gitignore
+echo "*.log" >> .gitignore
+echo "cache/" >> .gitignore
